@@ -1,0 +1,22 @@
+{
+    "name": "mini-express-analog-framework",
+    "version": "0.0.1",
+    "description": "just mini webframework for working with request and response cycle",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "simple web frameworks"
+    ],
+    "author": "Denis Korablev",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
